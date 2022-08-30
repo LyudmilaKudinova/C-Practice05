@@ -1,0 +1,15 @@
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\bin\Debug\net6.0\C#Pr05Task001.exe
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\bin\Debug\net6.0\C#Pr05Task001.deps.json
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\bin\Debug\net6.0\C#Pr05Task001.runtimeconfig.json
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\bin\Debug\net6.0\C#Pr05Task001.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\bin\Debug\net6.0\C#Pr05Task001.pdb
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\obj\Debug\net6.0\C#Pr05Task001.csproj.AssemblyReference.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\obj\Debug\net6.0\C#Pr05Task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\obj\Debug\net6.0\C#Pr05Task001.AssemblyInfoInputs.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\obj\Debug\net6.0\C#Pr05Task001.AssemblyInfo.cs
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\obj\Debug\net6.0\C#Pr05Task001.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\obj\Debug\net6.0\C#Pr05Task001.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\obj\Debug\net6.0\refint\C#Pr05Task001.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\obj\Debug\net6.0\C#Pr05Task001.pdb
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\obj\Debug\net6.0\C#Pr05Task001.genruntimeconfig.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice05.git\C#Pr05Task001\obj\Debug\net6.0\ref\C#Pr05Task001.dll
